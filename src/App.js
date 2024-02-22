@@ -1,9 +1,7 @@
 import React from 'react';
-
-import './App.css';
+import './index.css';
 import Nav from './nav';
 import Contents from './Contents';
-import PageA from './PageA';
 
 function App() {
     return (
